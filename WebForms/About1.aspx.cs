@@ -7,11 +7,10 @@ using System.Web.UI.WebControls;
 
 namespace WebForms
 {
-    public partial class About : Page
+    public partial class About1 : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
 
         }
     }
