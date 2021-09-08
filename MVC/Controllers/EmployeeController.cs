@@ -1,4 +1,5 @@
-﻿using System;
+﻿using MVC.Models;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -23,18 +24,26 @@ namespace MVC.Controllers
         // GET: Employee/Create
         public ActionResult Create()
         {
+           // if(ModelState.IsValid)
             return View();
         }
 
         // POST: Employee/Create
         [HttpPost]
-        public ActionResult Create(FormCollection collection)
+        public ActionResult Create(Employee employee)
         {
             try
             {
                 // TODO: Add insert logic here
+                if (ModelState.IsValid)
+                {
+                    return View();
+                }
+                else
+                {
+                    return View();
 
-                return RedirectToAction("Index");
+                }
             }
             catch
             {
@@ -84,6 +93,18 @@ namespace MVC.Controllers
             {
                 return View();
             }
+        }
+
+        public ActionResult EmployeeList()
+        {
+            List<Employee> employees = new List<Employee>
+            {
+                new Employee { Id = 1, Name = "nisam", Email = "n@n.com" },
+                new Employee { Id = 2, Name = "suvid", Email = "s@s.com" },
+                new Employee { Id = 3, Name = "yash", Email = "y@y.com" },
+
+            };
+            return View(employees);
         }
     }
 }

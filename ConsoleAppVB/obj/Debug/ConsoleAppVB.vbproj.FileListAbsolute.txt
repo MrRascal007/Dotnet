@@ -9,3 +9,14 @@ C:\Users\sasid\Desktop\Source Code\ConsoleApp\ConsoleAppVB\obj\Debug\ConsoleAppV
 C:\Users\sasid\Desktop\Source Code\ConsoleApp\ConsoleAppVB\obj\Debug\ConsoleAppVB.exe
 C:\Users\sasid\Desktop\Source Code\ConsoleApp\ConsoleAppVB\obj\Debug\ConsoleAppVB.xml
 C:\Users\sasid\Desktop\Source Code\ConsoleApp\ConsoleAppVB\obj\Debug\ConsoleAppVB.pdb
+C:\Users\Amer\Documents\Dotnet\ConsoleAppVB\bin\Debug\ConsoleAppVB.exe.config
+C:\Users\Amer\Documents\Dotnet\ConsoleAppVB\bin\Debug\ConsoleAppVB.exe
+C:\Users\Amer\Documents\Dotnet\ConsoleAppVB\bin\Debug\ConsoleAppVB.pdb
+C:\Users\Amer\Documents\Dotnet\ConsoleAppVB\bin\Debug\ConsoleAppVB.xml
+C:\Users\Amer\Documents\Dotnet\ConsoleAppVB\obj\Debug\ConsoleAppVB.vbproj.AssemblyReference.cache
+C:\Users\Amer\Documents\Dotnet\ConsoleAppVB\obj\Debug\ConsoleAppVB.Resources.resources
+C:\Users\Amer\Documents\Dotnet\ConsoleAppVB\obj\Debug\ConsoleAppVB.vbproj.GenerateResource.cache
+C:\Users\Amer\Documents\Dotnet\ConsoleAppVB\obj\Debug\ConsoleAppVB.vbproj.CoreCompileInputs.cache
+C:\Users\Amer\Documents\Dotnet\ConsoleAppVB\obj\Debug\ConsoleAppVB.exe
+C:\Users\Amer\Documents\Dotnet\ConsoleAppVB\obj\Debug\ConsoleAppVB.xml
+C:\Users\Amer\Documents\Dotnet\ConsoleAppVB\obj\Debug\ConsoleAppVB.pdb
