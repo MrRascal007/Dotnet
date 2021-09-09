@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebForms", "WebForms\WebFor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{EA1C5427-CE71-4F03-878C-B0B10F0283E3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{691FDA95-3B12-4227-80E7-8EC3F6107B3F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{EA1C5427-CE71-4F03-878C-B0B10F0283E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EA1C5427-CE71-4F03-878C-B0B10F0283E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EA1C5427-CE71-4F03-878C-B0B10F0283E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{691FDA95-3B12-4227-80E7-8EC3F6107B3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{691FDA95-3B12-4227-80E7-8EC3F6107B3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{691FDA95-3B12-4227-80E7-8EC3F6107B3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{691FDA95-3B12-4227-80E7-8EC3F6107B3F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
